@@ -1,0 +1,16 @@
+body{
+    background-image: url(../Image/back3.jpg);
+}
+.p1{
+    color: white;
+}
+footer{
+    background-color: black;
+    display:flex;
+    color:white;
+    justify-content: space-between;
+   height:300px;
+}
+.Click{
+   background-color: aliceblue;
+}

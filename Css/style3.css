@@ -1,0 +1,26 @@
+body{
+    background-image: url(../Image/back2.jpeg);
+}
+
+footer{
+    background-color: black;
+    display:flex;
+    color:white;
+    justify-content: space-between;
+   height:300px;
+}
+
+button{
+    background-color: blue;
+}
+button:hover{
+    background-color:greenyellow;
+    border-radius: 3px;
+}
+button P input:hover{
+    color:blue;
+}
+h{
+    text-align: left;
+    color: white;
+}
